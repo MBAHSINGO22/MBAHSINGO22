@@ -41,10 +41,3 @@
 
 <img src="https://raw.githubusercontent.com/MBAHSINGO22/MBAHSINGO22/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MBAHSINGO22/count.svg?"  />
-</div>
-
-###
