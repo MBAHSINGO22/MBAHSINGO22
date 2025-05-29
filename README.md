@@ -43,5 +43,16 @@
 
 ###
 
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
 <img src="https://raw.githubusercontent.com/MBAHSINGO22/MBAHSINGO22/output/snake.svg" alt="Snake animation" />
 
