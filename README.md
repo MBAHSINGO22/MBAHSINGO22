@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
----
+
 
 <p>
   
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
----
+
 
 ---
 <div>
@@ -53,13 +53,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MBAHSINGO22&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 </div>
----
 
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MBAHSINGO22&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
----
 
 <img src="https://raw.githubusercontent.com/MBAHSINGO22/MBAHSINGO22/output/snake.svg" alt="Snake animation" />
 
