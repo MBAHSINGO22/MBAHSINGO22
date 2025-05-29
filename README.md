@@ -32,6 +32,12 @@
 
 ###
 
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBAHSINGO22&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MBAHSINGO22&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+</div>
+
 <div align="left">
   <a href="https://www.instagram.com/kriswinaradi22?igsh=MTkzaXh1ZGR4aGZwdg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -41,9 +47,6 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBAHSINGO22&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MBAHSINGO22&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ###
 
