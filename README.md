@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi Peeps👋! My name is Eugenius Kriswinar Adi Cahya and I'm a <br>informatics student from Sanata Dharma University</h1>
 
----
 <div align="left">
   <a href="https://www.instagram.com/kriswinaradi22?igsh=MTkzaXh1ZGR4aGZwdg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
