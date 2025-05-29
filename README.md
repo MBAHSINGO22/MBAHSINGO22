@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi Peeps👋! My name is Eugenius Kriswinar Adi Cahya and I'm a <br>informatics student from Sanata Dharma University</h1>
 
 <div align="left">
