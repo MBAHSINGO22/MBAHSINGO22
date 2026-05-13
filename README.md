@@ -40,14 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-
----
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBAHSINGO22&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MBAHSINGO22&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-</div>
-
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MBAHSINGO22&limit=5&theme=flat&combine_all_yearly_contributions=true)
